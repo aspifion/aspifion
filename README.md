@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding, gaming, server stuff and much more.
 - 🌱 I’m currently focusing on languages like PHP, Python and Java.
 - 💻 Want to collab or work on one of my projects? Feel free to contribute anything or ask questions when something apporaches you that you do not understand.
-- 📫 You can reach me on Discord: plofts#1239
+- 📫 You can reach me on Discord: [plofts](http://discord.com/users/292596146650742793)
