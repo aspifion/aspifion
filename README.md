@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @plofts
-- 👀 I’m interested in coding, gaming, server stuff and much more.
-- 🌱 I’m currently focusing on languages like PHP, Python and Java.
-- 💻 Want to collab or work on one of my projects? Feel free to contribute anything or ask questions when something apporaches you that you do not understand.
-- 📫 You can reach me on Discord: [plofts](http://discord.com/users/292596146650742793)
+- 👋 Wowie! Hey there, I’m @plofts
+- 👀 Developer, gamer and Discord enthusiast.
+- 💻 Always love to try something new! For example my website written in [RMD](https://plofts.github.io/plofts-website/)
+- 📫 You can find me on Discord server: [plofts' server](https://discord.gg/xn3cKJvcNE)
