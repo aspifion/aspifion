@@ -1,17 +1,6 @@
-### Hi there I'm [plofts](https://twitter.com/plofts)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/plofts3?style=social)
-
-<br>
-<br>
-
-- 👋 Hey there, I’m @plofts
-- 👀 Developer, gamer and professional sleeper.
-- 💻 Always love to try something new! For example my website written in [RMD](https://plofts.de)
-- 📫 You can find me on my Revolt server: [plofts' server](https://app.revolt.chat/invite/WxcKQD96)
-
-<br>
-
-![Plofts' GitHub stats](https://github-readme-stats.vercel.app/api?username=plofts&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plofts&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=plofts&show_icons=true&count_private=true&theme=synthwave&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=plofts&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=plofts&theme=synthwave&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
